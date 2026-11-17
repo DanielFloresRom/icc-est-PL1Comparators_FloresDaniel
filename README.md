@@ -96,8 +96,6 @@ Pruebas: **29/29 aprobadas** (ver `evidencias/tabla_pruebas.md`). La salida comp
 
 ## Conclusiones
 
-> _Escribir aquí al menos tres conclusiones propias (sin IA), basadas en los resultados de las evidencias._
-
 1. El proyecto mostró que ordenar datos no es solo acomodarlos, sino definir con claridad qué criterio importa y en qué orden.
 2. Separar el código en partes claras y probarlo paso a paso hizo que fuera más fácil encontrar errores y confiar en los resultados.
 3. Trabajar con un mismo grupo de datos y consultarlo de muchas formas sin alterarlo demuestra lo útil que es planificar antes de programar.
